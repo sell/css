@@ -93,3 +93,24 @@ body {
 .inline {
     display: inline;
 }
+
+.block {
+    display: block;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.dark-text {
+    color: #333333;
+}
+
+.light-text {
+    color: #f3f3f3;
+}
+
